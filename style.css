@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  font-family: 'Quicksand';
+  margin: 0;
+  padding: 0;
+  color: #372750;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0 0 0.75rem 0;
+  color: #443c7b;
+}
+
+a.document-holder{
+  padding: 20px;
+  align-items: center;
+  display: flex;
+  font-weight: 600;
+  text-decoration: none;
+  border: 2px solid #372750;
+  color: #372750;
+  margin-top: 20px;
+}
+
+a.document-holder img{
+  margin-right: 15px;
+}
+
+a.document-holder:hover{
+  border: 2px solid #372750;
+  background-color: #ac99cc;  
+}
+
+
+}
+
+.left-half {
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.right-half {
+  background-color: #c9b8e4;
+}
+
